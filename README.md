@@ -20,6 +20,8 @@ This project is portfolio-ready and demonstrates practical skills in data engine
 *The final report featuring professional formatting and automated insights generated via the Python-to-Excel pipeline.*
 ![Final Report](images/final_report.png)
 
+![Final Report2](images/final_report2.png)
+
 **Automation Logic**
 *The script processing data, validating records, and generating the reporting package.*
 ![Terminal Execution](images/terminal_run.png)
@@ -81,4 +83,5 @@ The system follows a **"Data-to-Presentation"** workflow to ensure maintainabili
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
+
 pip install -r requirements.txt
