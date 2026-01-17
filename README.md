@@ -22,6 +22,10 @@ This project is portfolio-ready and demonstrates practical skills in data engine
 
 ![Final Report2](images/final_report2.png)
 
+
+**Project Structure**
+
+
 **Automation Logic**
 *The script processing data, validating records, and generating the reporting package.*
 ![Terminal Execution](images/terminal_run.png)
@@ -85,3 +89,9 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 
 pip install -r requirements.txt
+```
+
+If you are a retail manager or business owner looking to automate your weekly reporting workflow with custom dashboards like the one shown above, feel free to contact me for a tailored solution. Contact email: miguelmora32466@gmail.com
+
+
+
