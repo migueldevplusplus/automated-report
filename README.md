@@ -10,8 +10,6 @@ An end-to-end Python pipeline that loads supermarket sales CSVs, runs comprehens
 
 This project uses a **hybrid reporting approach**: Python handles the heavy computational logic and data validation, while a pre-designed Excel template handles the professional visual presentation and natural language summaries.
 
-This project is portfolio-ready and demonstrates practical skills in data engineering, analytics, reporting automation, and operational delivery.
-
 ---
 
 ## Project Gallery
@@ -92,6 +90,7 @@ pip install -r requirements.txt
 ```
 
 If you are a retail manager or business owner looking to automate your weekly reporting workflow with custom dashboards like the one shown above, feel free to contact me for a tailored solution. Contact email: miguelmora32466@gmail.com
+
 
 
 
